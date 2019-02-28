@@ -1,0 +1,12 @@
+{
+  "name": "awsrekog1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "avdk",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.411.0",
+    "http": "^0.0.0",
+    "uuid": "^3.3.2"
+  }
+}
